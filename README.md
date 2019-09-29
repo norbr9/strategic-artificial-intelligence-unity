@@ -8,7 +8,7 @@ The following elements can be found:
 * Pathfinding A* and LRTA*
 * Influence Map
 * Control of units
-* AI system for NPC
+* AI system for NPCs
 
 
 More documentation can be found in doc/ (only spanish)
