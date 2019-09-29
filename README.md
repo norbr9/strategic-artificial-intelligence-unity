@@ -2,6 +2,8 @@
 
 Implementation of a strategic and tactic AI system which uses artificial intelligence components over a real-time warfare scenario.
 
+The version of Unity used is 2018.3.14f1.
+
 The following elements can be found:
 * Game map
 * NPC units
