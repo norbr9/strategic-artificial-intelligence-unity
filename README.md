@@ -13,7 +13,7 @@ The following elements can be found:
 * AI system for NPCs
 
 
-More documentation can be found in doc/ (only spanish)
+More documentation can be found in doc/, look for 'Bloque 2' (only spanish)
 
 
 ---
@@ -28,4 +28,4 @@ Se pueden encontrar los siguientes elementos:
 * Control sobre unidades
 * Sistema IA para los NPC
 
-Más documentación puede encontrarse en doc/
+Más documentación puede encontrarse en doc/, buscar en 'Bloque 2'
