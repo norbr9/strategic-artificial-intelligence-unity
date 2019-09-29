@@ -1,6 +1,6 @@
 # Strategic and Tactic Artificial Intelligence with Unity
 
-Implementation of a stratigic and tactic AI system which uses artificial intelligence components over a real-time warfare scenario.
+Implementation of a strategic and tactic AI system which uses artificial intelligence components over a real-time warfare scenario.
 
 The following elements can be found:
 * Game map
